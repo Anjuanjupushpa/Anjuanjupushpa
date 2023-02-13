@@ -1,0 +1,66 @@
+.container
+{
+	width:50%;
+	margin:auto;
+}
+.box-1
+{
+
+background-color:#333333;
+color:#ffffff;
+padding:10px;
+border:10px red solid;
+border-right: 50px red solid;
+border-top:15px blue solid;
+border-top: 15px blue solid;
+
+
+
+}
+.button
+{
+color: #ffffff;
+}
+.branchs
+{
+	border:5px solid #ccc;
+	padding:15px;
+	border-radiusmargin:15px;
+}
+.block
+{
+	float:right;
+	width:33.3%;
+	border:4px solid #ccc;
+	padding:10px;
+	box-sizing:border-box;
+}
+.clr
+{
+	clear:both;
+}
+.p-box
+{
+ width: 100px;
+ height: 200px;
+ border: 4px solid #000;
+ margin-top: 30px;
+ position:relative;
+
+}
+.p-box h1
+{
+	position: absolute;
+	top:230px;
+	left: 300px;
+}
+.p-box h2
+{
+	position: absolute;
+	top:0px;
+	left: 0px;
+}
+
+
+
+
