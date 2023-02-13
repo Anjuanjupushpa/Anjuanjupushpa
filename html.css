@@ -1,0 +1,70 @@
+<!DOMTYPE html>
+<html lang="en">
+<head>
+	<title>CSS to HTML file</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+<div class="container">
+	<h1>welcome tomy demo session on css</h1>
+	<p>Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.</p>
+</div>
+<div class="box-1">
+	<h1>independence day<h1>
+		<p>Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947, the day when the provisions of the Indian Independence Act, which transferred legislative sovereignty to the Indian Constituent Assembly, came into effect. India retained King George VI as head of state until its transition to a republic, when the Constitution of India came into effect on 26 January 1950 </p>
+		<a class="button"
+		href="https://en.wikipedia.org/wiki/Independence_Day_(India)">READ MORE</a>
+	</div>
+	<div class="branchs">
+		<h2>MITM offersbelow branch</h2>
+	<ul>
+		<li><a href="#">CSE</a></li>
+		<li><a href="#">ISE</a></li>
+        <li><a href="#">ECE</a></li>
+        <li><a href="#">CVE</a></li>
+        <li><a href="#">MECH</a></li>
+    </ul>
+</div>
+<br>
+<div class="block">
+	<h3>Heading 1</h3>
+	<p>Study at MITM Study at MITM Study at MITM Study at MITM Study at MITM Study at MITM Study at MITM Study at MITM</p>
+</div>
+
+<div class="block">
+	<h3>Heading 2</h3>
+	<p>life at MITM life at MITM life at MITM life at MITM life at MITM life at MITM life at MITM life at MITM life at MITM</p>
+</div>
+
+<div class="block">
+	<h3>Heading 3</h3>
+	<p>Campus at MITM Campus at MITM Campus at MITM Campus at MITM Campus at MITM Campus at MITM</p>
+</div>
+
+<div class="block">
+	<h3>Heading 4</h3>
+	<p>Placement at MITM Placement at MITM Placement at MITM Placement at MITM Placement at MITM Placement at MITM Placement at MITM Placement at MITM</p>
+</div>
+<br>
+<br>
+<div class="clr"></div>
+
+
+<div class="p-box">
+	<h1>hello</h1>
+	<h2>world</h2>
+</div>
+<br>
+<div class="clr"></div>
+
+
+
+
+
+
+	
+
+
+</body>
+</html>
